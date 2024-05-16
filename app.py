@@ -11,3 +11,4 @@ df = pd.DataFrame({
 st.write(df)
 # st.dataframe()でも表示可能
 st.dataframe(df)
+st.bar_chart(df)
