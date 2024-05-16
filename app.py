@@ -3,8 +3,8 @@ import pandas as pd
 
 # ダミーデータの作成
 df = pd.DataFrame({
-    'name': ['Alice', 'Bob'],
-    'age': [25, 30],
+    'name': ['Alice', 'Bob', 'joe'],
+    'age': [25, 30, 34],
 })
 
 # DataFrameを表示
